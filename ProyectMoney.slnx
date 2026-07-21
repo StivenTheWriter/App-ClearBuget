@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ProyectMonet.Domain/ProyectMoney.Domain.csproj" Id="51e6f8cd-2365-4305-9b97-434f9e0a7964" />
+  <Project Path="ProyectMoney.FrontView/ProyectMoney.FrontView.csproj" Id="d3aa44da-fb5b-404a-a1bc-48f684dd7464">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="ProyectMoney.Infrastucture/ProyectMoney.Infrastucture.csproj" Id="c2f3de02-5197-44f1-85ab-3c68be686753" />
+</Solution>
