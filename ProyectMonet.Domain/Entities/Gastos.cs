@@ -1,17 +1,11 @@
-﻿
+﻿using ProyectMoney.Domain.Entities;
 namespace ProyectMoney.Domain.Entities
 {
-    public class Gastos
+    public class Gastos: BaseEntity
     {
-        public readonly Guid Id   = Guid.NewGuid();
-        public String Name { get; set; } = string.Empty;
-        public decimal Dinero { get; set; } = 0.0m;
-
-        public bool IsDeleted = false;
-
-
-
-
+        public string Name { get; set; } = string.Empty;
+        public decimal Amount { get; set; } = decimal.Zero;
+        public string Description { get; set; } = string.Empty;
 
     }
 }
