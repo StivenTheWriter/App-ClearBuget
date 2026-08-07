@@ -3,9 +3,15 @@ namespace ProyectMoney.Domain.Entities
 {
     public class Gastos: BaseEntity
     {
-        public string Name { get; set; } = string.Empty;
-        public decimal Amount { get; set; } = decimal.Zero;
-        public string Description { get; set; } = string.Empty;
+        public string Description { get; set; } = string.Empty; // Ej: "Hamburguesa en McDonald's"
+        public decimal Income { get; set; }
+
+        // CRÍTICO: Esto es lo que te permite consultar meses anteriores
+        public DateTime Date { get; set; } = DateTime.UtcNow;
+
+        // RELACIÓN: Llave foránea hacia la Categoría
+        public Guid CategoryId { get; set; }
+        public Category? Category { get; set; }
 
     }
 }
