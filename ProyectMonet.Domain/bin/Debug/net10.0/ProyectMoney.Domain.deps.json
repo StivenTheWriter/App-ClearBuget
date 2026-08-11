@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ProyectMoney.Domain/1.0.0": {
+        "runtime": {
+          "ProyectMoney.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectMoney.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
