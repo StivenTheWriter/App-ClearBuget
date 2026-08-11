@@ -46,8 +46,7 @@
               "RelativeToolTip": "ProyectMonet.Domain\\Entities\\Income.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T02:22:17.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-07T02:22:17.857Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "ProyectMonet.Domain\\Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T02:18:22.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-07T02:18:22.582Z"
             },
             {
               "$type": "Document",
@@ -70,7 +68,7 @@
               "RelativeDocumentMoniker": "ProyectMonet.Domain\\Entities\\Gastos.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\P2\\ProyectMoney\\ProyectMonet.Domain\\Entities\\Gastos.cs",
               "RelativeToolTip": "ProyectMonet.Domain\\Entities\\Gastos.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-30T04:15:29.093Z",
               "EditorCaption": ""
@@ -85,8 +83,7 @@
               "RelativeToolTip": "ProyectMonet.Domain\\Entities\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T04:13:22.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T04:13:22.626Z"
             }
           ]
         }

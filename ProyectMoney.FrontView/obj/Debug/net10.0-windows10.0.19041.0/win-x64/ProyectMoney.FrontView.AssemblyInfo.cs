@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectMoney.FrontView")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b2c795154e7bb0708c95dd097a81bab16f89c121")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+88c9c5a23f0dfeb86177bc6bf297af5ccb9a5c75")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectMoney.FrontView")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectMoney.FrontView")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
