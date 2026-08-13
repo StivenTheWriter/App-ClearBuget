@@ -442,6 +442,16 @@
         "runtime": {
           "lib/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll": {}
         }
+      },
+      "ProyectMoney.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ProyectMoney.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProyectMoney.Domain.dll": {}
+        }
       }
     }
   },
@@ -1001,11 +1011,17 @@
         "sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512",
         "sqlitepclraw.provider.e_sqlite3.nuspec"
       ]
+    },
+    "ProyectMoney.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ProyectMonet.Domain/ProyectMoney.Domain.csproj",
+      "msbuildProject": "../ProyectMonet.Domain/ProyectMoney.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "Microsoft.EntityFrameworkCore.Sqlite >= 10.0.10"
+      "Microsoft.EntityFrameworkCore.Sqlite >= 10.0.10",
+      "ProyectMoney.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1041,7 +1057,11 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\User\\Documents\\P2\\ProyectMoney\\ProyectMonet.Domain\\ProyectMoney.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\P2\\ProyectMoney\\ProyectMonet.Domain\\ProyectMoney.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
