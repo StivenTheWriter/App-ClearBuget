@@ -1,10 +1,10 @@
 ﻿using ProyectMoney.Domain.Entities;
 namespace ProyectMoney.Domain.Entities
 {
-    public class Gastos: BaseEntity
+    public class Expense: BaseEntity
     {
         public string Description { get; set; } = string.Empty; // Ej: "Hamburguesa en McDonald's"
-        public decimal Income { get; set; }
+        public decimal Amount { get; set; }
 
         // Para consultar meses anteriores.
         public DateTime Date { get; set; } = DateTime.UtcNow;

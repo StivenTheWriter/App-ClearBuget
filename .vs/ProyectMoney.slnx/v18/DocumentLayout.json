@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{C2F3DE02-5197-44F1-85AB-3C68BE686753}|ProyectMoney.Infrastucture\\ProyectMoney.Infrastucture.csproj|solutionrelative:proyectmoney.infrastucture\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2F3DE02-5197-44F1-85AB-3C68BE686753}|ProyectMoney.Infrastucture\\ProyectMoney.Infrastucture.csproj|c:\\users\\user\\documents\\p2\\proyectmoney\\proyectmoney.infrastucture\\proyectmoney.infrastucture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C2F3DE02-5197-44F1-85AB-3C68BE686753}|ProyectMoney.Infrastucture\\ProyectMoney.Infrastucture.csproj|solutionrelative:proyectmoney.infrastucture\\proyectmoney.infrastucture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{51E6F8CD-2365-4305-9B97-434F9E0A7964}|ProyectMonet.Domain\\ProyectMoney.Domain.csproj|c:\\users\\user\\documents\\p2\\proyectmoney\\proyectmonet.domain\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E6F8CD-2365-4305-9B97-434F9E0A7964}|ProyectMonet.Domain\\ProyectMoney.Domain.csproj|solutionrelative:proyectmonet.domain\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E6F8CD-2365-4305-9B97-434F9E0A7964}|ProyectMonet.Domain\\ProyectMoney.Domain.csproj|c:\\users\\user\\documents\\p2\\proyectmoney\\proyectmonet.domain\\entities\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E6F8CD-2365-4305-9B97-434F9E0A7964}|ProyectMonet.Domain\\ProyectMoney.Domain.csproj|solutionrelative:proyectmonet.domain\\entities\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51E6F8CD-2365-4305-9B97-434F9E0A7964}|ProyectMonet.Domain\\ProyectMoney.Domain.csproj|c:\\users\\user\\documents\\p2\\proyectmoney\\proyectmonet.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{51E6F8CD-2365-4305-9B97-434F9E0A7964}|ProyectMonet.Domain\\ProyectMoney.Domain.csproj|solutionrelative:proyectmonet.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51E6F8CD-2365-4305-9B97-434F9E0A7964}|ProyectMonet.Domain\\ProyectMoney.Domain.csproj|c:\\users\\user\\documents\\p2\\proyectmoney\\proyectmonet.domain\\entities\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51E6F8CD-2365-4305-9B97-434F9E0A7964}|ProyectMonet.Domain\\ProyectMoney.Domain.csproj|solutionrelative:proyectmonet.domain\\entities\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2F3DE02-5197-44F1-85AB-3C68BE686753}|ProyectMoney.Infrastucture\\ProyectMoney.Infrastucture.csproj|c:\\users\\user\\documents\\p2\\proyectmoney\\proyectmoney.infrastucture\\proyectmoney.infrastucture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C2F3DE02-5197-44F1-85AB-3C68BE686753}|ProyectMoney.Infrastucture\\ProyectMoney.Infrastucture.csproj|solutionrelative:proyectmoney.infrastucture\\proyectmoney.infrastucture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\P2\\ProyectMoney\\ProyectMonet.Domain\\Entities\\Expense.cs",
+              "RelativeDocumentMoniker": "ProyectMonet.Domain\\Entities\\Expense.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\P2\\ProyectMoney\\ProyectMonet.Domain\\Entities\\Expense.cs",
+              "RelativeToolTip": "ProyectMonet.Domain\\Entities\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T13:48:23.294Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
@@ -42,16 +59,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProyectMoney.Infrastucture",
+              "DocumentIndex": 5,
+              "Title": "ProyectMoney.Infrastucture.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\P2\\ProyectMoney\\ProyectMoney.Infrastucture\\ProyectMoney.Infrastucture.csproj",
               "RelativeDocumentMoniker": "ProyectMoney.Infrastucture\\ProyectMoney.Infrastucture.csproj",
               "ToolTip": "C:\\Users\\User\\Documents\\P2\\ProyectMoney\\ProyectMoney.Infrastucture\\ProyectMoney.Infrastucture.csproj",
               "RelativeToolTip": "ProyectMoney.Infrastucture\\ProyectMoney.Infrastucture.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-13T03:22:56.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T03:22:56.349Z"
             },
             {
               "$type": "Document",
@@ -61,14 +77,14 @@
               "RelativeDocumentMoniker": "ProyectMoney.Infrastucture\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\P2\\ProyectMoney\\ProyectMoney.Infrastucture\\Data\\AppDbContext.cs",
               "RelativeToolTip": "ProyectMoney.Infrastucture\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-13T03:22:55.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Income.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\P2\\ProyectMoney\\ProyectMonet.Domain\\Entities\\Income.cs",
               "RelativeDocumentMoniker": "ProyectMonet.Domain\\Entities\\Income.cs",
@@ -81,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\P2\\ProyectMoney\\ProyectMonet.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "ProyectMonet.Domain\\Entities\\Category.cs",
@@ -89,11 +105,12 @@
               "RelativeToolTip": "ProyectMonet.Domain\\Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T02:18:22.582Z"
+              "WhenOpened": "2026-08-07T02:18:22.582Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\P2\\ProyectMoney\\ProyectMonet.Domain\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "ProyectMonet.Domain\\Entities\\BaseEntity.cs",
@@ -101,7 +118,8 @@
               "RelativeToolTip": "ProyectMonet.Domain\\Entities\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T04:13:22.626Z"
+              "WhenOpened": "2026-07-30T04:13:22.626Z",
+              "EditorCaption": ""
             }
           ]
         }
